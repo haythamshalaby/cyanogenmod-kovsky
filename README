@@ -1,4 +1,6 @@
-This is the default repository/branch. Its purpose is to store common files. For the main OS specific repositories, change "default" to any of the active projects.
+This is the default repository/branch. Its purpose is to store common files.
+For the main OS specific repositories, change "default" to any of the active projects.
+
 
 #   Copyright (C) 2010 The Android Open Source Project
 #
